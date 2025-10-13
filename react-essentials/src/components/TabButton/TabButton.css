@@ -1,0 +1,9 @@
+.tab-button {
+  margin: 2px;
+  align-items: center;
+}
+
+.tab-button .active {
+  background-color: red;
+  color: white;
+}
