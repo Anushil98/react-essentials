@@ -7,7 +7,7 @@ export const coreconcepts = [
     image: reactLogo,
   },
   {
-    title: "Priya",
+    title: "Priyanka",
     description: "This is a custom compoenent with props",
     image: reactLogo,
   },
@@ -17,7 +17,7 @@ export const coreconcepts = [
     image: reactLogo,
   },
   {
-    title: "Debmalya",
+    title: "Soma",
     description: "This is a custom compoenent with props",
     image: reactLogo,
   },
@@ -34,6 +34,6 @@ export const menuDescriptions = {
     description: "This is a Header!",
   },
   Footer: {
-    description: "This is a Footer!",
+    description: "This is a Footer! Loren ipsum! This is a Footer! Loren ipsumThis is a Footer! Loren ipsumThis is a Footer! Loren ipsumThis is a Footer! Loren ipsumThis is a Footer! Loren ipsumThis is a Footer! Loren ipsumThis is a Footer! Loren ipsumThis is a Footer! Loren ipsumThis is a Footer! Loren ipsumThis is a Footer! Loren ipsumThis is a Footer! Loren ipsumThis is a Footer! Loren ipsumThis is a Footer! Loren ipsum",
   },
 };

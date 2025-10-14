@@ -1,4 +1,4 @@
-function CoreConcepts({ title, description, image }) {
+function CoreConcept({ title, description, image }) {
   return (
     <div>
       <h1>{title}</h1>
@@ -8,4 +8,4 @@ function CoreConcepts({ title, description, image }) {
   );
 }
 
-export default CoreConcepts;
+export default CoreConcept;

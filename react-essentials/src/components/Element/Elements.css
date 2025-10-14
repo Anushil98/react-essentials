@@ -1,0 +1,20 @@
+.main-menu {
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+}
+
+#menu-description {
+  text-align: left;
+}
+
+#menu-description-wrapper {
+  margin: 10px;
+  padding: 10px;
+  background-color: rebeccapurple;
+  min-height: 100px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}

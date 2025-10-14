@@ -41,18 +41,4 @@
   color: #888;
 }
 
-#core-concepts{
-  display: flex;
-  flex-direction: row;
-  scroll-behavior: smooth;
-}
 
-#core-concepts div{
-  margin: 0px 10px 0px 0px;
-}
-
-.main-menu{
-  display: flex;
-  flex-direction: row;
-  align-items: start;
-}

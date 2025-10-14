@@ -1,0 +1,8 @@
+#core-concepts {
+  display: flex;
+  flex-direction: row;
+}
+
+#core-concepts div {
+  margin: 0px 10px 0px 0px;
+}
